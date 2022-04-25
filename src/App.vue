@@ -1,4 +1,13 @@
 <template>
+  <div class="wrapper">
+    <!-- 定位区 -->
+    <div class="wrapper__position">
+      <span class="iconfont">&#xe624;</span>
+      南京工业职业技术大学计算机与软件学院软件工程2126
+      <span class="iconfont position__notice">&#xe63f;</span>
+    </div>
+
+
   <!-- 底部导航 -->
   <div class="docker">
     <!-- BEM block__element-modifier -->
