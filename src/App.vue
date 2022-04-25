@@ -7,6 +7,14 @@
       <span class="iconfont position__notice">&#xe63f;</span>
     </div>
 
+    <!-- 搜索区 -->
+    <div class="wrapper__search">
+      <span class="iconfont">&#xe625;</span>
+      <span class="search__text">山姆会员店优惠商品</span>
+    </div>
+
+
+  </div>
 
   <!-- 底部导航 -->
   <div class="docker">
