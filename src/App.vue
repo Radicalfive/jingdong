@@ -13,7 +13,87 @@
       <span class="search__text">山姆会员店优惠商品</span>
     </div>
 
-
+    <!-- banner -->
+    <div class="wrapper__banner">
+      <img
+        src="https://cdn.jsdelivr.net/gh/Radicalfive/MK-image@master/腾讯会议图片_20220425144351.462fv8qd7hs0.webp"
+        class="wrapper__banner__img"
+      />
+    </div>
+    <div class="icons">
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E8%B6%85%E5%B8%82.png"
+          class="icons__item__img"
+        />
+        <p>超市便利</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E8%8F%9C%E5%B8%82%E5%9C%BA.png"
+          class="icons__item__img"
+        />
+        <p>菜市场</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E6%B0%B4%E6%9E%9C%E5%BA%97.png"
+          class="icons__item__img"
+        />
+        <p>水果店</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E9%B2%9C%E8%8A%B1.png"
+          class="icons__item__img"
+        />
+        <p>鲜花绿植</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E5%8C%BB%E8%8D%AF%E5%81%A5%E5%BA%B7.png"
+          class="icons__item__img"
+        />
+        <p>医药健康</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E5%AE%B6%E5%B1%85.png"
+          class="icons__item__img"
+        />
+        <p>家居时间</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E8%9B%8B%E7%B3%95.png"
+          class="icons__item__img"
+        />
+        <p>烘培蛋糕</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E7%AD%BE%E5%88%B0.png"
+          class="icons__item__img"
+        />
+        <p>签到</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E5%A4%A7%E7%89%8C%E5%85%8D%E8%BF%90.png"
+          class="icons__item__img"
+        />
+        <p>大牌搬运</p>
+      </div>
+      <div class="icons__item">
+        <img
+          src="https://ossstored.oss-cn-shanghai.aliyuncs.com/img/jingdong/%E7%BA%A2%E5%8C%85.png"
+          class="icons__item__img"
+        />
+        <p>红包套餐</p>
+      </div>
+    </div>
+    <!-- gap -->
+    <div class="gap"></div>
   </div>
 
   <!-- 底部导航 -->
